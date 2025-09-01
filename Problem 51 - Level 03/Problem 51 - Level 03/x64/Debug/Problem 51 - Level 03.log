@@ -1,0 +1,4 @@
+﻿  Problem 51 - Level 03.cpp
+C:\Users\DELL\Desktop\Programming Advices\Courses\course 7 - Algorithms  & Problem Solving Level 3\Problem 51 - Level 03\Problem 51 - Level 03\Problem 51 - Level 03.cpp(78,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\Desktop\Programming Advices\Courses\course 7 - Algorithms  & Problem Solving Level 3\Problem 51 - Level 03\Problem 51 - Level 03\Problem 51 - Level 03.cpp(234,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Problem 51 - Level 03.vcxproj -> C:\Users\DELL\Desktop\Programming Advices\Courses\course 7 - Algorithms  & Problem Solving Level 3\Problem 51 - Level 03\x64\Debug\Problem 51 - Level 03.exe
